@@ -1,0 +1,27 @@
+{
+    "name": "@datahandler/date-utility",
+    "version": "1.0.0",
+    "description": "A collection of handy date utilities",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "utilities",
+        "date",
+        "javascript"
+    ],
+    "author": "Nick Adkinson",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/preset-env": "^7.26.0",
+        "babel-jest": "^29.7.0",
+        "jest": "^29.7.0"
+    },
+    "jest": {
+        "transform": {
+            "^.+\\.js$": "babel-jest"
+        }
+    }
+}
