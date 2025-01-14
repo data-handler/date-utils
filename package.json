@@ -1,6 +1,6 @@
 {
-    "name": "@datahandler/date-utility",
-    "version": "1.0.0",
+    "name": "@datahandler/date-utils",
+    "version": "1.0.1",
     "description": "A collection of handy date utilities",
     "main": "index.js",
     "type": "module",

@@ -11,7 +11,7 @@ npm install @datahandler/date-utils
 ## Usage
 
 ```javascript
-import { getYears } = from '@your-username/utils';
+import { getYears } = from '@datahandler/date-utils';
 
 // Example: Get an array of years
 console.log(getYears(2000)); // [2000, 2001, ..., current year]
